@@ -1,0 +1,2 @@
+# CSS3-text-shadow-effects
+Este proyecto utiliza CSS3 para crear efectos de sombra en texto. El objetivo es crear un efecto de sombra que se vea como si el texto estuviera iluminado desde la izquierda. Para lograr esto, se utilizarán las propiedades `text-shadow` y `box-shadow` en CSS3. 

@@ -1,0 +1,14 @@
+/*############################################ Import ############################################*/
+@import url('DeepShadow.css');
+@import url('ElegantShadow.css');
+@import url('InsetShadow.css');
+@import url('RetroShadow.css');
+
+h1 {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 92px;
+  padding: 80px 50px;
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+} 
